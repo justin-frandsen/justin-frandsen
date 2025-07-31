@@ -30,3 +30,4 @@ Ph.D. student in Cognition and Cognitive Neuroscience at **Texas A&M University*
 📧 justin.frandsen@tamu.edu
 🌐 [GitHub](https://github.com/justin-frandsen)
 🔗 [LinkedIn](https://www.linkedin.com/in/justin-frandsen/)
+📚 [Google Scholar](https://scholar.google.com/citations?user=6svOSbIAAAAJ&hl=en)

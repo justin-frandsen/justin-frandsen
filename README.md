@@ -1,6 +1,6 @@
 # Justin Frandsen
 
-Ph.D. student in Cognition and Cognitive Neuroscience at **Texas A&M University**. My research focuses on the mechanisms of visual attention and learning in complex, naturalistic environments. I use behavioral methods, eye tracking, and computational modeling to investigate how people extract structure from the visual world.
+Ph.D. student in Cognition and Cognitive Neuroscience at **Texas A&M University**. My research focuses on the mechanisms of visual attention and learning in complex, naturalistic environments. I use behavioral methods, eye tracking, and neuroimaging to investigate how people attend to their environment.
 
 ## Research Interests
 - Visual attention and statistical learning  
@@ -13,18 +13,14 @@ Ph.D. student in Cognition and Cognitive Neuroscience at **Texas A&M University*
   Investigating how learned regularities in object locations and scene context influence search behavior.  
 
 - **Saliency and Threat Detection in Fire Imagery**  
-  In collaboration with the Yorzinski Lab, applying saliency models (e.g., GBVS, DeepGaze) and image segmentation techniques to examine how fire draws visual attention.  
-
-- **Aversive Learning and Distractor Suppression**  
-  Studying how negative outcomes shape attentional selection and resistance to distraction.  
+  In collaboration with the Yorzinski Lab, applying saliency models (GBVS) and image segmentation techniques to examine how fire draws visual attention.  
 
 ## Tools & Methods
 - Programming: Python, MATLAB, R  
 - Experiment design: Psychtoolbox, PsychoPy  
 - Eye tracking: EyeLink 1000, DataViewer  
 - Statistical analysis: pandas, NumPy, tidyverse, SPSS, JASP  
-- Image processing: OpenCV, scikit-image  
-- Version control: Git, GitHub  
+- Image processing: OpenCV, scikit-image
 
 ## Contact
 📧 justin.frandsen@tamu.edu
